@@ -1,0 +1,1 @@
+gs -dSAFER -dBATCH -dNOPAUSE -dNOCACHE -dPDFX -sDEVICE=pdfwrite -sColorConversionStrategy=CMYK -sOutputFile=cmyk.pdf input.pdf
